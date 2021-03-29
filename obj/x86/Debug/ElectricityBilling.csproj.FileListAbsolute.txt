@@ -1,0 +1,85 @@
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.pdb
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Form1.resources
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.pdb
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Customer_Details.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Connection.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Reading.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Units.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Payment.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csprojResolveAssemblyReference.cache
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.BillGeneration.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.sample.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.MasterPage.resources
+C:\Users\Dell\onedrive\documents\visual studio 2010\Projects\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.SplashForm.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.exe
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.pdb
+E:\Project\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.exe
+E:\Project\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.pdb
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csprojResolveAssemblyReference.cache
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.BillGeneration.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Connection.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Customer_Details.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Form1.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.MasterPage.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Payment.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Properties.Resources.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Reading.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.sample.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.SplashForm.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Units.resources
+E:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csproj.GenerateResource.Cache
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.exe
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.pdb
+D:\Project\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.exe
+D:\Project\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.pdb
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csprojResolveAssemblyReference.cache
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.BillGeneration.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Connection.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Customer_Details.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Form1.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.MasterPage.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Payment.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Properties.Resources.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Reading.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.sample.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.SplashForm.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Units.resources
+D:\Project\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csproj.GenerateResource.Cache
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.exe
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.pdb
+D:\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.exe
+D:\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.pdb
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csprojResolveAssemblyReference.cache
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.BillGeneration.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Connection.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Customer_Details.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Form1.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.MasterPage.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Payment.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Properties.Resources.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Reading.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.sample.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.SplashForm.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Units.resources
+D:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csproj.GenerateResource.Cache
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.exe
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.pdb
+E:\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.exe
+E:\ElectricityBilling\ElectricityBilling\bin\Debug\ElectricityBilling.pdb
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csprojResolveAssemblyReference.cache
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.BillGeneration.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Connection.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Customer_Details.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Form1.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.MasterPage.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Payment.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Properties.Resources.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Reading.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.sample.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.SplashForm.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.Units.resources
+E:\ElectricityBilling\ElectricityBilling\obj\x86\Debug\ElectricityBilling.csproj.GenerateResource.Cache
